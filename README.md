@@ -1,2 +1,2 @@
 # edu.vt
-Geospatial metadata for Virginia Tech
+Geospatial metadata for Virginia Polytechnic and State University
